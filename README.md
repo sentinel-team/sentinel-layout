@@ -1,2 +1,2 @@
-# sentinel-layout
-sentinel-layout
+# sentinel-plus
+sentinel-plus
